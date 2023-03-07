@@ -1,6 +1,6 @@
 # predicting_customer_buying_habits
 
-Using machine learning to predict customer buying habits. Specifically, using a RandomForest model to predict whether a customer will complete a booking or not an finding the most important features that determine whether or not a booking will be complete.
+Using machine learning to predict customer buying habits. Specifically, using a RandomForest model to predict whether a customer will complete a booking or not, and finding the most important features that determine whether or not a booking will be complete.
 
 Workflow involved:
 1. importing and cleaning data.
